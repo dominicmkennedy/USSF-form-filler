@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="styles.css">
+<title> US Soccer Referee Report </title>
+<head>
+<h1> 
+U.S. Soccer Federation
+Referee Program
+<br>
+Referee Report 
+</h1>
+<img id="ussf-logo" src="http://www.alasoccerref.com/images/al_new_ussf_logo.png" alt="">
+
+<br></head><br><hr>
+
+<p>Complete  and  submit  this  form  to  the  appropriate  competition  authorities  (e.g.,  local  league,  tournament director, cup coordinator, etc.) as directed.  If needed, and in addition to the U.S. Soccer Referee Report, the U.S.  Soccer  Supplemental  Referee  Report  can  be  used  for  instances  of  referee  assault,  referee  abuse, dismissal  of  team  officials,  sending-off  offenses,  serious  injuries,  game  abandonment  or  other  substantial occurrences. </p>
+
+<hr><br>
+
+<form action="genpdf.php" method="post">
+<label>Home Team:</label> 
+<input type="text" name="hteam">
+<label id="score">Score:</label>
+<input id="score" type="text" name="hscore">
+<br><br>
+<label>Away Team:</label> 
+<input type="text" name="ateam">
+<label id="score">Score:</label>
+<input id="score" type="text" name="ascore">
+<br><br>
+<label>Association/League:</label> 
+<input type="text" name="league"> 
+<br><br>
+<label>Division/Age Group:</label> 
+<input type="text" name="level"> 
+<br><br>
+<label>Game Number:</label> 
+<input type="text" name="gnum"> 
+<br><br>
+<label>Game Date:</label> 
+<input type="text" name="gdate"> 
+<br><br>
+<label>Referee:</label> 
+<input type="text" name="ref">
+<label id="grade">Grade:</label> 
+<input id="grade" type="text" name="refgrade"> 
+<br><br>
+<label>Assistant Referee 1:</label> 
+<input type="text" name="ar1">
+<label id="grade">Grade:</label>
+<input id="grade" type="text" name="ar1grade">  
+<br><br>
+<label>Assistant Referee 2:</label> 
+<input type="text" name="ar2">
+<label id="grade">Grade:</label>
+<input id="grade" type="text" name="ar2grade">  
+<br><br>
+<label for="fourth">Fourth Official:</label> 
+<input type="text" name="fourth">
+<label id="grade">Grade:</label>
+<input id="grade" type="text" name="fourthgrade">
+<br><br><br>
+<input type="submit">
+</form>
+<br><br><hr>
+
+<table>
+    <caption><h2>Cautions:</h2></caption>
+    <tr id="caution">
+        <th>Name</th>
+        <th>ID Number</th>
+        <th>Team</th>
+        <th>Misconduct Code</th>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr id="caution">
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+</table>
+<hr>
+<table>
+    <caption><h2>Send Offs:</h2></caption>
+    <tr>
+        <th>Name</th>
+        <th>ID Number</th>
+        <th>Team</th>
+        <th>Misconduct Code</th>
+    </tr>
+    <tr>
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr>
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr>
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+    <tr>
+        <td><input></td><td><input></td><td><input></td><td><input></td>
+    </tr>
+</table>
+<hr>
+<h3>Assigner of Record</h3>
+<form action="">
+  <select name="assigner" id="assigner">
+    <option value="billmize">Bill Mize</option>
+    <option value="eddypolk">Eddy Polk</option>
+    <option value="ginafoster">Gina Foster</option>
+    <option value="jasonodell">Jason O'Dell</option>
+    <option value="matthayes">Matt Hayes</option>
+    <option value="markherignton">Mark Herignton</option>
+    <option value="blainewalker">Blaine Walker</option>
+    <option value="other">Other</option>
+  </select>
+  <br><br>
+  <label for="assigner">A copy of this report will be sent to your assigner.</label>
+  <br><br>
+</form>
+<br><hr>
+<h3>League</h3>
+<form action="">
+  <select name="league" id="league">
+    <option value="ecnl">ECNL</option>
+    <option value="stateleague">State League</option>
+    <option value="RPL">RPL</option>
+    <option value="SCCL">SCCL</option>
+    <option value="other">Other</option>
+  </select>
+  <br><br>
+  <label for="league">A copy of this report will be sent to the league administrator.</label>
+  <br><br>
+</form>
+<br><hr>
+<h3>Other Parties</h3>
+<p>If you answred other for either of the above sections, or this report will concern other parties please enter their email address below.</p>
+<input type="text"><br><br><hr>
+
+
+
+<form>
+<label for="hteam">Name:</label> <input type="text" id="name" name="name"><br><br>
+<label for="hteam">USSF ID Number:</label> <input type="text" id="ussfid" name="ussfid"><br><br>
+<label for="hteam">Phone Number:</label> <input type="text" id="phone" name="phone"><br><br>
+<label for="hteam">Email Address:</label> <input type="text" id="email" name="email"><br><br>
+<label for="hteam">Date</label> <input type="text" id="date" name="date"><br><br><br>
+<br><input type="checkbox">  <label for="send">Email me a copy of this report</label>
+</form>
+<br><br><br>
+<button type="button">Submit</button> 
+
+
+
+
+
+</html>
