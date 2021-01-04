@@ -1,0 +1,674 @@
+{
+    "report.pdf": {
+        "0": {
+            "type": "Text",
+            "name": "Grade",
+            "namealt": "Grade",
+            "flags": "8388608",
+            "justification": "Center"
+        },
+        "1": {
+            "type": "Text",
+            "name": "Assistant Referee 1",
+            "namealt": "Assistant Referee 1",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "2": {
+            "type": "Text",
+            "name": "Grade_2",
+            "namealt": "Grade",
+            "flags": "8388608",
+            "justification": "Center"
+        },
+        "3": {
+            "type": "Text",
+            "name": "Assistant Referee 2",
+            "namealt": "Assistant Referee 2",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "4": {
+            "type": "Text",
+            "name": "Grade_3",
+            "namealt": "Grade",
+            "flags": "8388608",
+            "justification": "Center"
+        },
+        "5": {
+            "type": "Text",
+            "name": "Fourth Official",
+            "namealt": "Fourth Official",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "6": {
+            "type": "Text",
+            "name": "Grade_4",
+            "namealt": "Grade",
+            "flags": "8388608",
+            "justification": "Center"
+        },
+        "7": {
+            "type": "Text",
+            "name": "NameRow1",
+            "namealt": "Name_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "8": {
+            "type": "Text",
+            "name": "PassID NumberRow1",
+            "namealt": "Pass/ID Number_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "9": {
+            "type": "Text",
+            "name": "TeamRow1",
+            "namealt": "Team_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "10": {
+            "type": "Text",
+            "name": "Misconduct CodeRow1",
+            "namealt": "Misconduct Code_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "11": {
+            "type": "Text",
+            "name": "NameRow2",
+            "namealt": "Name_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "12": {
+            "type": "Text",
+            "name": "PassID NumberRow2",
+            "namealt": "Pass/ID Number_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "13": {
+            "type": "Text",
+            "name": "TeamRow2",
+            "namealt": "Team_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "14": {
+            "type": "Text",
+            "name": "Misconduct CodeRow2",
+            "namealt": "Misconduct Code_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "15": {
+            "type": "Text",
+            "name": "NameRow3",
+            "namealt": "Name_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "16": {
+            "type": "Text",
+            "name": "PassID NumberRow3",
+            "namealt": "Pass/ID Number_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "17": {
+            "type": "Text",
+            "name": "TeamRow3",
+            "namealt": "Team_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "18": {
+            "type": "Text",
+            "name": "Misconduct CodeRow3",
+            "namealt": "Misconduct Code_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "19": {
+            "type": "Text",
+            "name": "NameRow4",
+            "namealt": "Name_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "20": {
+            "type": "Text",
+            "name": "PassID NumberRow4",
+            "namealt": "Pass/ID Number_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "21": {
+            "type": "Text",
+            "name": "TeamRow4",
+            "namealt": "Team_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "22": {
+            "type": "Text",
+            "name": "Misconduct CodeRow4",
+            "namealt": "Misconduct Code_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "23": {
+            "type": "Text",
+            "name": "NameRow5",
+            "namealt": "Name_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "24": {
+            "type": "Text",
+            "name": "PassID NumberRow5",
+            "namealt": "Pass/ID Number_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "25": {
+            "type": "Text",
+            "name": "TeamRow5",
+            "namealt": "Team_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "26": {
+            "type": "Text",
+            "name": "Misconduct CodeRow5",
+            "namealt": "Misconduct Code_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "27": {
+            "type": "Text",
+            "name": "NameRow6",
+            "namealt": "Name_Row_6",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "28": {
+            "type": "Text",
+            "name": "PassID NumberRow6",
+            "namealt": "Pass/ID Number_Row_6",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "29": {
+            "type": "Text",
+            "name": "TeamRow6",
+            "namealt": "Team_Row_6",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "30": {
+            "type": "Text",
+            "name": "Misconduct CodeRow6",
+            "namealt": "Misconduct Code_Row_6",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "31": {
+            "type": "Text",
+            "name": "NameRow7",
+            "namealt": "Name_Row_7",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "32": {
+            "type": "Text",
+            "name": "PassID NumberRow7",
+            "namealt": "Pass/ID Number_Row_7",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "33": {
+            "type": "Text",
+            "name": "TeamRow7",
+            "namealt": "Team_Row_7",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "34": {
+            "type": "Text",
+            "name": "Misconduct CodeRow7",
+            "namealt": "Misconduct Code_Row_7",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "35": {
+            "type": "Text",
+            "name": "NameRow8",
+            "namealt": "Name_Row_8",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "36": {
+            "type": "Text",
+            "name": "PassID NumberRow8",
+            "namealt": "Pass/ID Number_Row_8",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "37": {
+            "type": "Text",
+            "name": "TeamRow8",
+            "namealt": "Team_Row_8",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "38": {
+            "type": "Text",
+            "name": "Misconduct CodeRow8",
+            "namealt": "Misconduct Code_Row_8",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "39": {
+            "type": "Text",
+            "name": "NameRow9",
+            "namealt": "Name_Row_9",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "40": {
+            "type": "Text",
+            "name": "PassID NumberRow9",
+            "namealt": "Pass/ID Number_Row_9",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "41": {
+            "type": "Text",
+            "name": "TeamRow9",
+            "namealt": "Team_Row_9",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "42": {
+            "type": "Text",
+            "name": "Misconduct CodeRow9",
+            "namealt": "Misconduct Code_Row_9",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "43": {
+            "type": "Text",
+            "name": "NameRow10",
+            "namealt": "Name_Row_10",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "44": {
+            "type": "Text",
+            "name": "PassID NumberRow10",
+            "namealt": "Pass/ID Number_Row_10",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "45": {
+            "type": "Text",
+            "name": "TeamRow10",
+            "namealt": "Team_Row_10",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "46": {
+            "type": "Text",
+            "name": "Misconduct CodeRow10",
+            "namealt": "Misconduct Code_Row_10",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "47": {
+            "type": "Text",
+            "name": "NameRow1_2",
+            "namealt": "Name_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "48": {
+            "type": "Text",
+            "name": "PassID NumberRow1_2",
+            "namealt": "Pass/ID Number_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "49": {
+            "type": "Text",
+            "name": "TeamRow1_2",
+            "namealt": "Team_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "50": {
+            "type": "Text",
+            "name": "Misconduct CodeRow1_2",
+            "namealt": "Misconduct Code_Row_1",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "51": {
+            "type": "Text",
+            "name": "NameRow2_2",
+            "namealt": "Name_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "52": {
+            "type": "Text",
+            "name": "PassID NumberRow2_2",
+            "namealt": "Pass/ID Number_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "53": {
+            "type": "Text",
+            "name": "TeamRow2_2",
+            "namealt": "Team_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "54": {
+            "type": "Text",
+            "name": "Misconduct CodeRow2_2",
+            "namealt": "Misconduct Code_Row_2",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "55": {
+            "type": "Text",
+            "name": "NameRow3_2",
+            "namealt": "Name_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "56": {
+            "type": "Text",
+            "name": "PassID NumberRow3_2",
+            "namealt": "Pass/ID Number_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "57": {
+            "type": "Text",
+            "name": "TeamRow3_2",
+            "namealt": "Team_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "58": {
+            "type": "Text",
+            "name": "Misconduct CodeRow3_2",
+            "namealt": "Misconduct Code_Row_3",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "59": {
+            "type": "Text",
+            "name": "NameRow4_2",
+            "namealt": "Name_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "60": {
+            "type": "Text",
+            "name": "PassID NumberRow4_2",
+            "namealt": "Pass/ID Number_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "61": {
+            "type": "Text",
+            "name": "TeamRow4_2",
+            "namealt": "Team_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "62": {
+            "type": "Text",
+            "name": "Misconduct CodeRow4_2",
+            "namealt": "Misconduct Code_Row_4",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "63": {
+            "type": "Text",
+            "name": "NameRow5_2",
+            "namealt": "Name_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "64": {
+            "type": "Text",
+            "name": "PassID NumberRow5_2",
+            "namealt": "Pass/ID Number_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "65": {
+            "type": "Text",
+            "name": "TeamRow5_2",
+            "namealt": "Team_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "66": {
+            "type": "Text",
+            "name": "Misconduct CodeRow5_2",
+            "namealt": "Misconduct Code_Row_5",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "67": {
+            "type": "Text",
+            "name": "Referee",
+            "namealt": "Referee",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "68": {
+            "type": "Text",
+            "name": "Home Team",
+            "namealt": "Home Team",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "69": {
+            "type": "Text",
+            "name": "Away Team",
+            "namealt": "Away Team",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "70": {
+            "type": "Text",
+            "name": "Score",
+            "namealt": "Score",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "71": {
+            "type": "Text",
+            "name": "Score_2",
+            "namealt": "Score",
+            "flags": "12582912",
+            "justification": "Center"
+        },
+        "72": {
+            "type": "Text",
+            "name": "AssociationLeague",
+            "namealt": "Association/League",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "73": {
+            "type": "Text",
+            "name": "DivisionAge Group",
+            "namealt": "Division/Age Group",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "74": {
+            "type": "Text",
+            "name": "7",
+            "namealt": "[7]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "75": {
+            "type": "Text",
+            "name": "6",
+            "namealt": "[6]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "76": {
+            "type": "Text",
+            "name": "5",
+            "namealt": "[5]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "77": {
+            "type": "Text",
+            "name": "4",
+            "namealt": "[4]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "78": {
+            "type": "Text",
+            "name": "3",
+            "namealt": "[3]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "79": {
+            "type": "Text",
+            "name": "2",
+            "namealt": "[2]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "80": {
+            "type": "Text",
+            "name": "1",
+            "namealt": "[1]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "81": {
+            "type": "Text",
+            "name": "8",
+            "namealt": "[8]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "82": {
+            "type": "Text",
+            "name": "9",
+            "namealt": "[9]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "83": {
+            "type": "Text",
+            "name": "10",
+            "namealt": "[10]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "84": {
+            "type": "Text",
+            "name": "11",
+            "namealt": "[11]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "85": {
+            "type": "Text",
+            "name": "12",
+            "namealt": "[12]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "86": {
+            "type": "Text",
+            "name": "13",
+            "namealt": "[13]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "87": {
+            "type": "Text",
+            "name": "14",
+            "namealt": "[14]",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "88": {
+            "type": "Text",
+            "name": "Date",
+            "namealt": "Date",
+            "flags": "4194304",
+            "justification": "Left"
+        },
+        "89": {
+            "type": "Text",
+            "name": "undefined",
+            "namealt": "undefined",
+            "flags": "4194304",
+            "justification": "Left"
+        },
+        "90": {
+            "type": "Text",
+            "name": "USSF ID Number",
+            "namealt": "USSF ID Number",
+            "flags": "4194304",
+            "justification": "Left"
+        },
+        "91": {
+            "type": "Text",
+            "name": "Phone Number",
+            "namealt": "Phone Number",
+            "flags": "4194304",
+            "justification": "Left"
+        },
+        "92": {
+            "type": "Text",
+            "name": "Email Address",
+            "namealt": "Email Address",
+            "flags": "4194304",
+            "justification": "Left"
+        },
+        "93": {
+            "type": "Text",
+            "name": "Statement",
+            "namealt": "Statement",
+            "flags": "8388608",
+            "justification": "Left"
+        },
+        "94": {
+            "type": "Text",
+            "name": "Game Number",
+            "flags": "0",
+            "justification": "Left"
+        },
+        "95": {
+            "type": "Text",
+            "name": "Game Date",
+            "flags": "0",
+            "justification": "Left"
+        }
+    }
+}
